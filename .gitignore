@@ -1,0 +1,13 @@
+#File Types
+credentials
+oauth2_installed.json
+*.pyc
+
+#Folders
+songs/
+.vscode/
+__pycahce__/
+
+#Virtual Environments
+.venv/
+.env/
